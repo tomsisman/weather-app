@@ -1,6 +1,6 @@
-import React from 'react'
+import React from 'react';
 
-import WeatherCurrent from './WeatherCurrent'
+import WeatherCurrent from './WeatherCurrent';
 import SeaLevels from './SeaLevels';
 
 class City extends React.Component {

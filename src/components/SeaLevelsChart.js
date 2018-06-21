@@ -32,8 +32,8 @@ class SeaLevelsChart extends React.Component {
                         }}
                     />
                 </div> 
-        )
-    }
-}
+        );
+    };
+};
 
-export default SeaLevelsChart
+export default SeaLevelsChart;

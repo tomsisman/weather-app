@@ -1,6 +1,6 @@
-import React from 'react'
+import React from 'react';
 
-const API_KEY = 'ea4ba74cdb0557380c5eaa5a58d6464b'
+const API_KEY = 'ea4ba74cdb0557380c5eaa5a58d6464b';
 
 class WeatherCurrent extends React.Component {
     state = {
@@ -55,7 +55,7 @@ class WeatherCurrent extends React.Component {
                 <p>Sunset: {this.state.sunset}</p>
             </div>
         );
-    }
-}
+    };
+};
 
-export default WeatherCurrent
+export default WeatherCurrent;

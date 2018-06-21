@@ -2,7 +2,7 @@ import React from 'react';
 
 import City from './City';
 
-class App extends React.Component {
+class WeatherApp extends React.Component {
 	render() {
 		return (
 			<div className='container vertical-center'>
@@ -18,4 +18,4 @@ class App extends React.Component {
 	}
 }
 
-export default App;
+export default WeatherApp;
