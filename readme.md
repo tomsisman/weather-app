@@ -1,4 +1,4 @@
-# React Weather App for BGL-Group technical exercise
+# React Weather App
 
 A simple react weather app with displaying data on 5 European cities.
 
